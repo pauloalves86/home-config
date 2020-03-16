@@ -23,6 +23,9 @@ set -g theme_title_display_process yes
 # set -g theme_display_date no
 set -g theme_date_format "+%H:%M"
 
+# set if your term supports `pipenv shell --fancy`
+set pipenv_fish_fancy yes
+
 # golang
 set -g fish_user_paths "/usr/local/go/bin" $HOME"/go/bin" $fish_user_paths
 
