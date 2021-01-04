@@ -1,6 +1,3 @@
-[user]
-	email = pmalves@topaz.com.br
-	name = Paulo M F Alves
 [core]
 	editor = code --wait
 [alias]
