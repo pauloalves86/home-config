@@ -1,0 +1,6 @@
+[yapf]
+column_limit = 80
+split_before_named_assigns = false
+split_complex_comprehension = true
+split_before_logical_operator = true
+split_penalty_logical_operator = 1001
